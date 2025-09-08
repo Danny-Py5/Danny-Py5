@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Danny-Py5
-- 👀 I’m interested in programming in python/JavaScript
-- 🌱 I’m currently learning Node/Express, mongoose/mongoDB, firebase
-- 💞️ I'm looking to collaborate on open-source projects related to web development, particularly in JavaScript frameworks node/Express
-- 📫 How to reach me through email at olatundedaniel943@gmail.com 
+# 👋 Hi, I'm Daniel (aka Dannypy / Olatunde)
 
-<!---
-Danny-Py5/Danny-Py5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm a passionate **Web Developer & Learner** from Nigeria.  
+I love building real-world projects, exploring new technologies, and sharing knowledge with others.  
+
+## 🚀 What I Do
+- 🌐 Frontend: HTML, CSS, JavaScript, React (learning)  
+- ⚙️ Backend: Node.js, Express, MongoDB  
+- 🐍 Programming: Python, Dart (learning Flutter)  
+- 🎨 UI/UX Design: Exploring Tailwind CSS & design principles  
+
+
+## 🌱 Currently Learning
+- React & React Native  
+- TypeScript  
+- Tailwind CSS  
+- Dart / Flutter  
+- Computer Science Fundamentals  
+
+## 🏆 Projects & Work
+Some of my works include:
+- 🥘 **UncleD Kitchen Website** – Showcasing menu & food orders  
+- 📝 **Task Manager API** – CRUD operations with Express & MongoDB  
+- 🎮 **JAMB CBT Emulator** – Training tool for exam preparation  
+
+## 📬 Let's Connect
+- 💼 Portfolio: *Coming soon under OlaTech Code and Design*  
+- 📧 Email: olatundedaniel943@gmail.com 
+- 💬 WhatsApp: +2348165521344
+- 🐦 Twitter: https://x.com/DanielOlat7426 
+- 🌍 LinkedIn: https://www.linkedin.com/in/daniel-olatunde-64aa59306/
+
+---
+
+⭐️ *"Code, Learn, Build, Repeat."*  
