@@ -1,35 +1,29 @@
-# 👋 Hi, I'm Daniel (aka Dannypy / Olatunde)
+# 👋 Hi, I'm Daniel (Dannypy / Olatunde)
 
-💻 I'm a passionate **Web Developer & Learner** from Nigeria.  
-I love building real-world projects, exploring new technologies, and sharing knowledge with others.  
+💻 **Full-Stack Web & Mobile Developer (in progress)** from Nigeria.  
+I enjoy building real-world projects, learning new technologies, and sharing knowledge.  
 
-## 🚀 What I Do
-- 🌐 Frontend: HTML, CSS, JavaScript, React (learning)  
-- ⚙️ Backend: Node.js, Express, MongoDB  
-- 🐍 Programming: Python, Dart (learning Flutter)  
-- 🎨 UI/UX Design: Exploring Tailwind CSS & design principles  
+## 🚀 Skills
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express, MongoDB  
+- **Mobile App Development:** Flutter, React Native  
+- **Programming:** Python, JavaScript, Dart  
+- **UI/UX:** Tailwind CSS & design principles  
 
 
-## 🌱 Currently Learning
-- React & React Native  
-- TypeScript  
-- Tailwind CSS  
-- Dart / Flutter  
-- Computer Science Fundamentals  
 
-## 🏆 Projects & Work
-Some of my works include:
-- 🥘 **UncleD Kitchen Website** – Showcasing menu & food orders  
-- 📝 **Task Manager API** – CRUD operations with Express & MongoDB  
-- 🎮 **JAMB CBT Emulator** – Training tool for exam preparation  
+## 🏆 Projects
+- 🥘 **UncleD Kitchen Website** – Food ordering showcase  
+- 📝 **Task Manager API** – CRUD with Express & MongoDB  
+- 🎮 **JAMB CBT Emulator** – Exam practice tool  
 
-## 📬 Let's Connect
-- 💼 Portfolio: *Coming soon under OlaTech Code and Design*  
-- 📧 Email: olatundedaniel943@gmail.com 
-- 💬 WhatsApp: +2348165521344
-- 🐦 Twitter: https://x.com/DanielOlat7426 
-- 🌍 LinkedIn: https://www.linkedin.com/in/daniel-olatunde-64aa59306/
+## 📬 Connect With Me
+- 💼 Portfolio: *Coming soon DANNYPY*  
+- 📧 Email: olatundedaniel943@gmail.com  
+- 💬 WhatsApp: +2348165521344  
+- 🐦 Twitter: [@DanielOlat7426](https://x.com/DanielOlat7426)  
+- 🌍 LinkedIn: [Daniel Olatunde](https://www.linkedin.com/in/daniel-olatunde-64aa59306/)  
 
 ---
 
-⭐️ *"Code, Learn, Build, Repeat."*  
+⭐ *"Code, Learn, Build, Repeat."*  
