@@ -1,6 +1,6 @@
 # Hi, I'm DANNYPY 
 
-💻 **Full-Stack Web & Mobile Developer (in progress)** from Nigeria.  
+💻 **Full-Stack Web & Mobile Developer** from Nigeria.  
 I enjoy building real-world projects, learning new technologies, and sharing knowledge.  
 
 ## Skills
